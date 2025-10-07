@@ -106,11 +106,6 @@ const CONFIG = {
       
     }
   ],
-  // Display articles from your medium or dev account. (Optional)
-  blog: {
-
-  },
-  // Track visitor interaction and behavior. https://www.hotjar.com
   hotjar: { id: '', snippetVersion: 6 },
   themeConfig: {
     defaultTheme: 'winter',
@@ -125,7 +120,24 @@ const CONFIG = {
 
     // Display the ring in Profile picture
     displayAvatarRing: true,
+// ... (blog 섹션 다음)
+blog: {
+  source: 'dev',
+  username: '',
+  limit: 2,
+},
 
+// 이 두 부분을 추가하거나, 원래대로 복구해주세요.
+googleAnalytics: {
+  id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+},
+hotjar: {
+  id: '',
+  snippetVersion: 6,
+},
+
+themeConfig: {
+  // ... (themeConfig 섹션 시작)
     // Available themes. To remove any theme, exclude from here.
     themes: [
       'light',
