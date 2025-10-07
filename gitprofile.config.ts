@@ -38,9 +38,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of HyeokMin Kwon',
     description: 'Hello, My name is HyeokMin Kwon. My major is AI. I am a student at Sungkyunkwan University.',
-    // GitHub 파일 뷰어 주소가 아닌, 실제 이미지 파일 주소를 사용해야 합니다.
-    // '프로필.jpg'를 GitHub에 업로드했다고 가정.
-    imageURL: 'https://mini-min-gles.github.io/프로필.jpg',
+    imageURL: 'https://raw.githubusercontent.com/mini-min-gles/mini-min-gles.github.io/main/프로필.jpg',
   },
   social: {
     linkedin: '',
