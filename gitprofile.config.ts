@@ -30,7 +30,7 @@ const CONFIG = {
           description:
             '한국어 욕설 채팅 분류 분석을 위한 효율적인 머신러닝 모델 탐구에 관한 보고서입니다.',
           imageUrl: 'https://i.imgur.com/example.png', // 임시 이미지 URL, 나중에 교체 가능
-          link: './a.pdf',
+          link: 'https://drive.google.com/file/d/12th1MHv-v7ZYQWZpeetZ3V8szOo13P8-/view?usp=sharing',
         },
       ],
     },
