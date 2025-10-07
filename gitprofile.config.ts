@@ -28,13 +28,13 @@ const CONFIG = {
         {
           title: '한국어 욕설 채팅 분류 분석 머신러닝 모델',
           description:
-            '한국어 욕설 채팅 분류 분석을 위한 효율적인 머신러닝 모델 탐구에 관한 보고서입니다.',
-          imageUrl: 'https://i.imgur.com/example.png', // 임시 이미지 URL, 나중에 교체 가능
+            '한국어 욕설 채팅 분류 분석을 위한 효율적인 머신러닝 모델 탐구에 관한 보고서입니다.\n * 클릭시 보고서 페이지로 이동합니다.',
+          imageUrl: 'https://i.imgur.com/example.png', 
           link: 'https://drive.google.com/file/d/12th1MHv-v7ZYQWZpeetZ3V8szOo13P8-/view?usp=sharing',
         },
         {
           title: "ADHD 증상 판단 모델 개발을 위한 프로젝트 진행 중",
-          description: "최종 목표 VR를 통한 모델 개발을 위하여 언리얼 엔진을 통해 프로젝트 진행 중에 있습니다.",
+          description: "최종 목표 VR를 통한 모델 개발을 위하여 언리얼 엔진을 통해 프로젝트 진행 중에 있습니다.\n * 클릭시 프로젝트 페이지로 이동합니다.",
           imageUrl: '',
           link: 'https://www.notion.so/Theraplay-26a717d2812380d88e1bc0eadc13f0b4?source=copy_link',
         }
