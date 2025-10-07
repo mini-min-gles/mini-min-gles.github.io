@@ -33,8 +33,9 @@ const CONFIG = {
           link: 'https://drive.google.com/file/d/12th1MHv-v7ZYQWZpeetZ3V8szOo13P8-/view?usp=sharing',
         },
         {
-          title: "ADHD 증상 판단 모델 개발을 위한 프로젝트 진행 중"
+          title: "ADHD 증상 판단 모델 개발을 위한 프로젝트 진행 중",
           description: "최종 목표 VR를 통한 모델 개발을 위하여 언리얼 엔진을 통해 프로젝트 진행 중에 있습니다.",
+          imageUrl: '',
           link: 'https://www.notion.so/Theraplay-26a717d2812380d88e1bc0eadc13f0b4?source=copy_link',
         }
       ],
